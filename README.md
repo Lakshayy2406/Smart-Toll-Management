@@ -45,4 +45,4 @@ Created to explore RFID technology, Arduino, embedded systems, sensor-based iden
 
 ## Author
 
-**Lakshay Vaishnav** · [GitHub](https://github.com/Lakshayy2406)
+**Lakshay Sharma** · [GitHub](https://github.com/Lakshayy2406)
